@@ -1,0 +1,4 @@
+#Thu Mar 24 13:11:47 EDT 2022
+base.0=/Users/samuel/avatar/Temp/gradleOut/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
